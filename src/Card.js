@@ -4,12 +4,12 @@ const SuCard=(props)=>{
     return (
        <div className="card">
            <div>
-           <h4>this is my login :{props.Login}</h4>
-           <h4>this is my id :{props.Id}</h4>
-           <a href={props.Url}>go my profile </a>
+           <h4>This is my login ={props.Login}</h4>
+           <h4>This is my id= {props.Id}</h4>
+           <a href={props.Url}>Go my profile </a>
            </div>
            <div> 
-               <img src={props.Img} alt="Avatar" style={{width:"25%",height:"25%"}}/>
+               <img src={props.Img} alt="Avatar" style={{width:"33%",height:"20%",float:"right", marginTop:"-138px", borderRadius:"60px"}}/>
            </div>
        </div>
 
