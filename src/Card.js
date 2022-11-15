@@ -4,8 +4,8 @@ const SuCard=(props)=>{
     return (
        <div className="card">
            <div>
-           <h4>This is my login ={props.Login}</h4>
-           <h4>This is my id= {props.Id}</h4>
+           <h4>{props.Login}</h4>
+           <h4>{props.Id}</h4>
            <a href={props.Url}>Go my profile </a>
            </div>
            <div> 
