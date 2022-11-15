@@ -5,7 +5,8 @@ import su2 from './su2.jpg';
 import su3 from './su3.jpg';
 import  GitProfs from './githubDatabase';
 import SuCard  from './Card';
-//sdfkljsdfjklsdfsdkljfsa;dfjkl;asdlkjf
+// aading my me
+
 const ArrowFunc=(props)=>{
 
 
