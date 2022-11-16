@@ -39,7 +39,7 @@ function App() {
   return (
     <div>
 
-                 <ArrowFunc message="00000000000000000000000" value="230"/>
+                 {/* <ArrowFunc message="00000000000000000000000" value="230"/> */}
             
                
 

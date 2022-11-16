@@ -9,7 +9,7 @@ const SuCard=(props)=>{
            <a href={props.Url}>Go my profile </a>
            </div>
            <div> 
-               <img src={props.Img} alt="Avatar" style={{width:"35%",height:"20%",float:"right", marginTop:"-117px", borderRadius:"60px"}}/>
+               <img src={props.Img} alt="Avatar" style={{width:"35%",height:"20%",float:"right", marginTop:"-82px", borderRadius:"60px"}}/>
            </div>
        </div>
 
