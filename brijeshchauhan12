@@ -1,0 +1,86 @@
+[33mcommit af61cf8dd3d73643665b836e403837c7c2af8d41[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: your_username <bk185165@ncr.com>
+Date:   Fri Nov 18 13:45:29 2022 +0530
+
+    Adding Bootstrap in this project for css and Router
+
+[33mcommit 9f0175502dcdecd674668f0503a2886ce818f1fd[m
+Author: sunitaverma12 <techiesverma@gmail.com>
+Date:   Wed Nov 16 20:45:57 2022 +0530
+
+    16/2045
+
+[33mcommit 89022c179996fb93a7cdd7ad4ef9dcff0dc4eb3d[m
+Author: sunitaverma12 <techiesverma@gmail.com>
+Date:   Wed Nov 16 11:57:17 2022 +0530
+
+    16/11:57
+
+[33mcommit 929575f52ec4a88efb237771287d93c73f30eb1c[m
+Merge: 58e98ec 0f656dd
+Author: brijesh kumar chauhan <47671000+brijeshchauhan12@users.noreply.github.com>
+Date:   Wed Nov 16 00:23:54 2022 +0530
+
+    Merge pull request #5 from brijeshchauhan12/main
+    
+    changed card.js and card.css
+
+[33mcommit 0f656dd5a192698e9a71b05e637133e153b3c0f0[m
+Author: your_username <bk185165@ncr.com>
+Date:   Wed Nov 16 00:18:31 2022 +0530
+
+    changed card.js and card.css
+
+[33mcommit 58e98ec2c3e5a15f8cbcc50ecb47231e3812c993[m
+Merge: 5a129b2 7fadfed
+Author: brijesh kumar chauhan <47671000+brijeshchauhan12@users.noreply.github.com>
+Date:   Wed Nov 16 00:00:10 2022 +0530
+
+    Merge pull request #4 from brijeshchauhan12/main
+    
+    11/15 11:57
+
+[33mcommit 7fadfede5339dd29702e4c2ac4ad9ce93fc36d79[m
+Author: your_username <bk185165@ncr.com>
+Date:   Tue Nov 15 23:57:22 2022 +0530
+
+    11/15 11:57
+
+[33mcommit 5a129b21874dce4ce04a4e65c4d81d8f4f1c357f[m
+Author: sunitaverma12 <techiesverma@gmail.com>
+Date:   Tue Nov 15 23:34:24 2022 +0530
+
+    15/23:34
+
+[33mcommit 99ca083c713b4a143026252885f07b28ee4c6d89[m
+Merge: f111477 7365b7e
+Author: Sunita verma <90575699+sunitaverma12@users.noreply.github.com>
+Date:   Tue Nov 15 23:26:53 2022 +0530
+
+    Merge pull request #3 from brijeshchauhan12/main
+    
+    Creating pull Request of changes
+
+[33mcommit 7365b7e2f1111f9285914f66a6f913b199275cfd[m
+Author: your_username <bk185165@ncr.com>
+Date:   Tue Nov 15 23:19:20 2022 +0530
+
+    making changes on 11/15 11:19pm
+
+[33mcommit f111477bfbc33080412f02e4b4efc7bcbf8379f0[m
+Author: sunitaverma12 <techiesverma@gmail.com>
+Date:   Mon Nov 14 14:49:03 2022 +0530
+
+    sunita
+
+[33mcommit 20c297a9654242567e887915a4ac1eb476f880e0[m
+Author: your_username <bk185165@ncr.com>
+Date:   Mon Nov 14 13:15:10 2022 +0530
+
+    'brijesh'
+
+[33mcommit 0303d43f300dc4c676d1bf98488c8b63334bf85e[m
+Author: sunitaverma12 <techiesverma@gmail.com>
+Date:   Sun Nov 13 23:33:07 2022 +0530
+
+    brijesh
