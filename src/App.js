@@ -12,8 +12,11 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 const ArrowFunc = (props) => {
   return (
     <div>
-      <div>Returning the argument + {props.message}</div>
-      <div>{props.value}</div>
+     <div class="text-center">
+  <div class={props.sp} role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
+</div>
     </div>
   );
 };
@@ -31,8 +34,8 @@ function App() {
           <Route>
           <Route path="/" element={<Layout />}>
           <Route index element={ <GitProfs />} />
-          <Route path="Brijesh" element={<ArrowFunc message="00000000000000000000000" value="230"/>} />
-          <Route path="Sunita" element={<SuCard />} />
+          <Route path="Brijesh" element={<ArrowFunc sp="spinner-grow"/>} />
+          <Route path="Sunita" element={<ArrowFunc sp="spinner-border"/>} />
           {/* <Route path="*" element={<NoPage />} /> */}
         </Route>            
           </Route>
