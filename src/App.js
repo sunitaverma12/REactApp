@@ -7,6 +7,7 @@ import GitProfs from "./githubDatabase";
 import SuCard from "./Card";
 import Layout from "./Layout";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Cards from "./Cards";
 // aading my me
 //Add pull request to make changes authorising by myself
 const ArrowFunc = (props) => {
@@ -42,6 +43,7 @@ function App() {
         </Routes>
 
       </BrowserRouter>
+      <Cards/>
       {/* <ArrowFunc message="00000000000000000000000" value="230"/> */}
 
       {/* <img src="https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg" className="SunitaCss"/>  */}
