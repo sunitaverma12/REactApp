@@ -1,5 +1,7 @@
 import "./App.css";
 import Car from "./car";
+import Counter  from "./Components/Counter";
+import AuthCompo from "./Components/Authcompo";
 import sunitaimginApp from "./su.jpg";
 import su2 from "./su2.jpg";
 import su3 from "./su3.jpg";
@@ -17,8 +19,11 @@ const ArrowFunc = (props) => {
       <div class="text-center">
         <div class={props.sp} role="status">
           <span class="visually-hidden">Loading...</span>
+          
         </div>
       </div>
+      <Counter/>
+      <AuthCompo/>
     </div>
   );
 };
@@ -28,7 +33,7 @@ function App() {
 
 
   return (
-    <div>
+    
       <BrowserRouter>
         <Routes>
           <Route>
@@ -45,30 +50,30 @@ function App() {
         </Routes>
       </BrowserRouter>
       
-      <div className="container text-center">
-       { st.map((id)=>{
-        return (
-           <div className="row" key={id}>
+    //   <div className="container text-center">
+    //    { st.map((id)=>{
+    //     return (
+    //        <div className="row" key={id}>
               
                
-             {
-              st.map((idx)=>{
-                return(
+    //          {
+    //           st.map((idx)=>{
+    //             return(
 
-                  <Cards className="col" style={{margin:"3px"}} key={idx}/>
-                )
-              })
-             }
-          </div>
-        )
+    //               <Cards className="col" style={{margin:"3px"}} key={idx}/>
+    //             )
+    //           })
+    //          }
+    //       </div>
+    //     )
           
-       })
+    //    })
         
-        }
+    //     }
           
     
-      </div>
-    </div>
+    //   </div>
+    // </div>
   );
 }
 
