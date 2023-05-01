@@ -13,7 +13,6 @@ import Cards from "./Cards";
 const st = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 20, 21, 22];
 // aading my mekdflksd
 //adding one more comment
-//addint other lines as wellsdfsdfgit d
 //Add pull request to make changes authorising by myself
 const ArrowFunc = (props) => {
   return (
